@@ -1,10 +1,5 @@
 import React from 'react'
 import styled from 'styled-components'
-import youtubeSocialIcon from '../icon/youtube-icon-24px.svg'
-import instagramSocialIcon from '../icon/instagram-glyph-24px.svg'
-import twitterSocialIcon from '../icon/twitter-icon-24px.svg'
-import githubSocialIcon from '../icon/github-icon-24px.svg'
-import dribbbleSocialIcon from '../icon/dribbble-icon-24px.svg'
 
 const FooterStyles = styled.footer`
   root {
