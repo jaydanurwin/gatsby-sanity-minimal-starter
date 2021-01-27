@@ -4,7 +4,6 @@
 
 - A blazing fast blog with [Gatsby.js](https://gatsbyjs.org)
 - Structured content using [Sanity.io](https://www.sanity.io)
-- (Optional) Global deployment on [Netlify](https://netlify.com)
 
 ## Quick start
 
